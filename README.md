@@ -7,7 +7,7 @@ Downlink Throughput estimator in Mobile Network 4G/5G using AI regressors
 ├── datasets/
 │ ├── network_kpis.parquet (dataset)
 ├── src/ 
-│ └── Lab2.M1.C5. Regressor for Throughput estimation.ipynb
+│ └── Regressor_for_Throughput_estimation.ipynb
 ├── requirements.txt
 ├── LICENSE # MIT License (code)
 └── README.md
